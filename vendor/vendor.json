@@ -1,0 +1,131 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "+pwg6Q4kkdlSIAdX3BHk/wPt9XA=",
+			"path": "github.com/googollee/go-engine.io",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "Tv1/qmTmjl43MFulf61QbsGuu2c=",
+			"path": "github.com/googollee/go-engine.io/message",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "P52xOZCO/IcBkwkgePjaGowzzoM=",
+			"path": "github.com/googollee/go-engine.io/parser",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "4YSeKFUV0jWbsVj/RGd6tT0vhKA=",
+			"path": "github.com/googollee/go-engine.io/polling",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "WSC+XDEXrzu11rf+gv1Y2N7v/nE=",
+			"path": "github.com/googollee/go-engine.io/transport",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "YoTzy7k797sWHFlWYTIU3KBrNqU=",
+			"path": "github.com/googollee/go-engine.io/websocket",
+			"revision": "80ae0e43aca17b4c5a6834999d0f2eaa16b9afda",
+			"revisionTime": "2017-02-24T22:25:11Z"
+		},
+		{
+			"checksumSHA1": "4Ja73Otz5I4I0wthFA7Jx0OwDQM=",
+			"path": "github.com/googollee/go-socket.io",
+			"revision": "970a1286d096d33129776082dfa89b35970e00c2",
+			"revisionTime": "2018-04-20T11:43:31Z"
+		},
+		{
+			"checksumSHA1": "yIkYzW7bzAD81zHyuCNmEj4+oxQ=",
+			"path": "github.com/gopherjs/gopherjs/js",
+			"revision": "8dffc02ea1cb8398bb73f30424697c60fcf8d4c5",
+			"revisionTime": "2018-04-24T20:25:46Z"
+		},
+		{
+			"checksumSHA1": "CmYM1Olqa/hFYib18K748HLU3Jw=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "21ab95fa12b9bdd8fecf5fa3586aad941cc98785",
+			"revisionTime": "2018-04-20T17:16:12Z"
+		},
+		{
+			"checksumSHA1": "3jb3O53tfYrqxzkbXANWY71A1fs=",
+			"path": "github.com/jtolds/gls",
+			"revision": "77f18212c9c7edc9bd6a33d383a7b545ce62f064",
+			"revisionTime": "2017-05-03T22:40:06Z"
+		},
+		{
+			"checksumSHA1": "wRhyvlnPdK+w0ynsOtNMuj1bPLE=",
+			"path": "github.com/rs/cors",
+			"revision": "12972ae4e7775151d0d53aaad277be85133ce445",
+			"revisionTime": "2018-04-17T22:52:04Z"
+		},
+		{
+			"path": "github.com/rs/googollee/go-socket.io",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VfPvVlMjS7U7FptdcQJGT+oDyHg=",
+			"path": "github.com/smartystreets/assertions",
+			"revision": "7678a5452ebea5b7090a6b163f844c133f523da2",
+			"revisionTime": "2018-03-01T16:12:46Z"
+		},
+		{
+			"checksumSHA1": "JrN6RhIUuhUtKpXeIxT6Xotxuag=",
+			"path": "github.com/smartystreets/assertions/internal/go-render/render",
+			"revision": "7678a5452ebea5b7090a6b163f844c133f523da2",
+			"revisionTime": "2018-03-01T16:12:46Z"
+		},
+		{
+			"checksumSHA1": "r6FauVdOTFnwYQgrKGFuWUbIAJE=",
+			"path": "github.com/smartystreets/assertions/internal/oglematchers",
+			"revision": "7678a5452ebea5b7090a6b163f844c133f523da2",
+			"revisionTime": "2018-03-01T16:12:46Z"
+		},
+		{
+			"checksumSHA1": "DJkKC9Fsa49QQI+HKwof4La2tec=",
+			"path": "github.com/smartystreets/assertions/should",
+			"revision": "7678a5452ebea5b7090a6b163f844c133f523da2",
+			"revisionTime": "2018-03-01T16:12:46Z"
+		},
+		{
+			"checksumSHA1": "4Lslb4s7UjCrISZggqeLrRlfxSY=",
+			"path": "github.com/smartystreets/goconvey/convey",
+			"revision": "ef6db91d284a0e7badaa1f0c404c30aa7dee3aed",
+			"revisionTime": "2018-02-22T19:45:00Z"
+		},
+		{
+			"checksumSHA1": "vl/QM6Xmv+vE4rSAW6TBFEZ2JT4=",
+			"path": "github.com/smartystreets/goconvey/convey/gotest",
+			"revision": "ef6db91d284a0e7badaa1f0c404c30aa7dee3aed",
+			"revisionTime": "2018-02-22T19:45:00Z"
+		},
+		{
+			"checksumSHA1": "f+t3lomZtv/Y6Shat3M3nAZQQ3U=",
+			"path": "github.com/smartystreets/goconvey/convey/reporting",
+			"revision": "ef6db91d284a0e7badaa1f0c404c30aa7dee3aed",
+			"revisionTime": "2018-02-22T19:45:00Z"
+		},
+		{
+			"checksumSHA1": "UKkcruOXnXmV8jhphTC5HULgzB4=",
+			"path": "github.com/smartystreets/gunit",
+			"revision": "6f0d6275bdcdd4411ad1c9b3b69eda55eea5b2db",
+			"revisionTime": "2018-03-14T19:48:57Z"
+		},
+		{
+			"checksumSHA1": "cZKDT1U3VhzLOTvx2/3plMb0p7Y=",
+			"path": "github.com/smartystreets/gunit/scan",
+			"revision": "6f0d6275bdcdd4411ad1c9b3b69eda55eea5b2db",
+			"revisionTime": "2018-03-14T19:48:57Z"
+		}
+	],
+	"rootPath": "github.com/larryyangsen/chat"
+}
