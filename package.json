@@ -1,0 +1,32 @@
+{
+    "name": "my-chat-room",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "bootstrap": "^4.1.1",
+        "normalize.css": "^8.0.0",
+        "react": "^16.3.2",
+        "react-dom": "^16.3.2",
+        "socket.io": "^2.1.1"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+        "babel-plugin-transform-async-to-generator": "^6.24.1",
+        "babel-plugin-transform-class-properties": "^6.24.1",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "node-sass": "^4.9.0",
+        "nodesass": "0.0.2-security"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev:watch": "parcel watch index.html --public-url ./",
+        "build": "parcel build index.html --no-source-maps"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
